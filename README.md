@@ -24,10 +24,10 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 ### 🌐 Minhas Redes Sociais  
 
 <div style="display: inline_block">
-  <a href="https://br.linkedin.com/in/kethleen-gon%C3%A7alves06">
+  <a href="https://www.linkedin.com/in/kaik-araujo-592470300/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28px" />
   </a>
-  <a href="https://github.com/Kethleen06">
+  <a href="https://github.com/kaikviturino">
     <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28px" />
   </a>
 </div>
@@ -37,10 +37,10 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 ## 📊 Estatísticas Modernas do GitHub
 
 ### 🔹 Perfil e Conquistas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kaikviturino&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🔹 Top Linguagens
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethleen06&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikviturino&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)
 
 ### 🔹 Badges de Conquistas
 ![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)
