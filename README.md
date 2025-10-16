@@ -2,8 +2,7 @@
 
 ### Meu nome é _Kaik Araujo_ e estou aprendendo para me tornar uma Desenvolvedor Front-End! 👩🏽‍💻
 
-**Atualmente**:  
-* Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) ;  
+**Atualmente**:    
 * Estudando HTML, CSS e JavaScript com dedicação;  
 * Criando projetos para aprimorar minhas habilidades e conhecimentos.
 
